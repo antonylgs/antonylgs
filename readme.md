@@ -24,6 +24,7 @@
 ![Moodle](https://img.shields.io/badge/-Moodle-000?&logo=moodle)
 ![Elementor](https://img.shields.io/badge/-Elementor-000?&logo=elementor)
 ![Stripe](https://img.shields.io/badge/-Stripe-000?&logo=stripe)
+![Notion](https://img.shields.io/badge/-Notion-000?&logo=notion)
 
 <br>
     
@@ -31,7 +32,7 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&pause=1000&color=5FED83&background=FFFFFF00&vCenter=true&width=435&height=20&lines=fullstack_)
 
-[![](https://img.shields.io/badge/🏫_XiLearn-1D24CA?style=for-the-badge) ![](https://img.shields.io/badge/Complete_Teaching_and_Learning_platform_for_a_Digital_School_based_in_Laos.-000)<br>![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=nextdotjs) ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript) ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000?&logo=tailwindcss) ![Moodle](https://img.shields.io/badge/-Moodle-000?&logo=moodle) ![Stripe](https://img.shields.io/badge/-Stripe-000?&logo=stripe)](https://xilearn.com/en)
+[![](https://img.shields.io/badge/🏫_XiLearn-1D24CA?style=for-the-badge) ![](https://img.shields.io/badge/Complete_Teaching_and_Learning_platform_for_a_Digital_School_based_in_Laos.-000)<br>![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=nextdotjs) ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript) ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000?&logo=tailwindcss) ![Moodle](https://img.shields.io/badge/-Moodle-000?&logo=moodle) ![Stripe](https://img.shields.io/badge/-Stripe-000?&logo=stripe) ![Notion](https://img.shields.io/badge/-Notion-000?&logo=notion)](https://xilearn.com/en)
 
 [![](https://img.shields.io/badge/⚡️_UpSlide-fa474a?style=for-the-badge) ![](https://img.shields.io/badge/Benchmarked_and_worked_on_the_full_refont_and_optimization_of_UpSlide_landing_website.-000)<br>![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript) ![PHP](https://img.shields.io/badge/-PHP-000?&logo=php) ![CSS](https://img.shields.io/badge/-CSS-000?&logo=css) ![WordPress](https://img.shields.io/badge/-WordPress-000?&logo=wordpress) ![Elementor](https://img.shields.io/badge/-Elementor-000?&logo=elementor)](https://upslide.com/)
 
