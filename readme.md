@@ -30,14 +30,16 @@
     
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=30&duration=1&pause=1000&color=909692&background=FFFFFF00&vCenter=true&repeat=false&width=435&height=30&lines=featured_projects/)
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&duration=5000&pause=1000&color=5FED83&background=FFFFFF00&vCenter=true&repeat=falsewidth=435&height=20&lines=chrome_extensions_)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&duration=5000&pause=1000&color=5FED83&background=FFFFFF00&vCenter=true&repeat=falsewidth=435&height=20&lines=chrome_extensions/)
 
 [![](https://img.shields.io/badge/🪙_Twitch_Extension-512B81?style=for-the-badge) ![](https://img.shields.io/badge/Twitch_Google_Chrome_extension.-000)<br>![Users](https://img.shields.io/badge/users-2400+-08872B
 ) ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)](https://chromewebstore.google.com/detail/twitch-bonus-chest-auto-c/pdjfehhlnpmhgdkoplaoiigclmkoifgb)
 
 [![](https://img.shields.io/badge/🧐_Instagram_Extension-74512D?style=for-the-badge) ![](https://img.shields.io/badge/Instagram_Unfollower_Scanner.-000)<br>![Users](https://img.shields.io/badge/users-110+-08872B) ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)](https://chromewebstore.google.com/detail/instagram-unfollower-scan/adnjkmippimphiiklnaicbebfmhbjlgc)
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&duration=10000&pause=1000&color=5FED83&background=FFFFFF00&vCenter=true&repeat=false&width=435&height=20&lines=fullstack_)
+<br>
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&duration=10000&pause=1000&color=5FED83&background=FFFFFF00&vCenter=true&repeat=false&width=435&height=20&lines=fullstack/)
 
 [![](https://img.shields.io/badge/🏫_XiLearn-1D24CA?style=for-the-badge) ![](https://img.shields.io/badge/Complete_Teaching_and_Learning_platform_for_a_Digital_School_based_in_Laos.-000)<br>![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=nextdotjs) ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript) ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000?&logo=tailwindcss) ![Moodle](https://img.shields.io/badge/-Moodle-000?&logo=moodle) ![Stripe](https://img.shields.io/badge/-Stripe-000?&logo=stripe) ![Notion](https://img.shields.io/badge/-Notion-000?&logo=notion)](https://xilearn.com/en)
 
@@ -48,7 +50,7 @@
 
 <br>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&duration=15000&pause=1000&color=5FED83&background=FFFFFF00&vCenter=true&repeat=false&width=435&height=20&lines=reverse_engineering_)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&duration=15000&pause=1000&color=5FED83&background=FFFFFF00&vCenter=true&repeat=false&width=435&height=20&lines=reverse_engineering/)
 
 [![](https://img.shields.io/badge/🤖_Vinted_Discord_Bot-005461?style=for-the-badge) ![](https://img.shields.io/badge/Reverse--engineered_Vinted_API_for_a_real--time_Discord_deal--notifier_and_auto--buy_bot.-000)<br>![Python](https://img.shields.io/badge/-Python-000?&logo=Python) ![Flask](https://img.shields.io/badge/-Flask-000?&logo=Flask) ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)](https://www.linkedin.com/posts/antonylanglois_reverseengineering-python-flask-activity-7170815952886943745-9v6h?utm_source=share&utm_medium=member_desktop&rcm=ACoAADl92bQBqG1ZYafu9a4tI2XXjOiSb_k8gN0)
 
