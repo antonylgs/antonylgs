@@ -35,7 +35,7 @@
 [![](https://img.shields.io/badge/🪙_Twitch_Extension-512B81?style=for-the-badge) ![](https://img.shields.io/badge/Twitch_Google_Chrome_extension.-000)<br>![Users](https://img.shields.io/badge/users-2400+-08872B
 ) ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)](https://chromewebstore.google.com/detail/twitch-bonus-chest-auto-c/pdjfehhlnpmhgdkoplaoiigclmkoifgb)
 
-[![](https://img.shields.io/badge/🧐_Instagram_Extension-512B81?style=for-the-badge) ![](https://img.shields.io/badge/Instagram_Unfollower_Scanner.-000)<br>![Users](https://img.shields.io/badge/users-110+-08872B) ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)](https://chromewebstore.google.com/detail/instagram-unfollower-scan/adnjkmippimphiiklnaicbebfmhbjlgc)
+[![](https://img.shields.io/badge/🧐_Instagram_Extension-74512D?style=for-the-badge) ![](https://img.shields.io/badge/Instagram_Unfollower_Scanner.-000)<br>![Users](https://img.shields.io/badge/users-110+-08872B) ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)](https://chromewebstore.google.com/detail/instagram-unfollower-scan/adnjkmippimphiiklnaicbebfmhbjlgc)
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&duration=10000&pause=1000&color=5FED83&background=FFFFFF00&vCenter=true&repeat=false&width=435&height=20&lines=fullstack_)
 
