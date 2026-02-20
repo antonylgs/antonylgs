@@ -30,7 +30,11 @@
     
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=30&duration=1&pause=1000&color=909692&background=FFFFFF00&vCenter=true&repeat=false&width=435&height=30&lines=featured_projects/)
 
-[![](https://img.shields.io/badge/🪢_Chrome_Extension-512B81?style=for-the-badge) ![](https://img.shields.io/badge/Twitch_Google_Chrome_extension_--_2400+_users.-000)<br>![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)](https://chromewebstore.google.com/detail/twitch-bonus-chest-auto-c/pdjfehhlnpmhgdkoplaoiigclmkoifgb)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&pause=1000&color=5FED83&background=FFFFFF00&vCenter=true&width=435&height=20&lines=chrome_extensions_)
+
+[![](https://img.shields.io/badge/🪙_Twitch_Extension-512B81?style=for-the-badge) ![](https://img.shields.io/badge/Twitch_Google_Chrome_extension_--_2400+_users.-000)<br>![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)](https://chromewebstore.google.com/detail/twitch-bonus-chest-auto-c/pdjfehhlnpmhgdkoplaoiigclmkoifgb)
+
+[![](https://img.shields.io/badge/🧐_Instagram_Extension-512B81?style=for-the-badge) ![](https://img.shields.io/badge/Instagram_Unfollower_Scanner_--_110+_users.-000)<br>![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)](https://chromewebstore.google.com/detail/instagram-unfollower-scan/adnjkmippimphiiklnaicbebfmhbjlgc)
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&pause=1000&color=5FED83&background=FFFFFF00&vCenter=true&width=435&height=20&lines=fullstack_)
 
