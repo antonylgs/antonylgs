@@ -1,4 +1,4 @@
-![Languages](https://img.shields.io/badge/Languages-000?style=for-the-badge)<br>
+![Languages](https://img.shields.io/badge/Languages-F7F0F0?style=for-the-badge)<br>
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
@@ -10,7 +10,7 @@
 ![English](https://img.shields.io/badge/-English-000?&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgdmlld0JveD0iMCAwIDMyIDMyIj48cmVjdCB3aWR0aD0iMzAiIGhlaWdodD0iMjQiIHg9IjEiIHk9IjQiIGZpbGw9IiNmZmYiIHJ4PSI0IiByeT0iNCIvPjxwYXRoIGZpbGw9IiNhNjI4NDIiIGQ9Ik0xLjYgNS44aDI4LjhBNCA0IDAgMCAwIDI3IDRINWE0IDQgMCAwIDAtMy40IDEuOE0yIDcuN3YxLjhoMjlWNy43em0wIDMuN2gyOXYxLjhIMnpNMiAxNWgyOXYySDJ6bS0xIDMuOGgzMHYxLjhIMXpNMSAyNHYuM2gzMHYtMS44SDF6bTI5LjQgMi4ySDEuNkE0IDQgMCAwIDAgNSAyOGgyMmE0IDQgMCAwIDAgMy40LTEuOCIvPjxwYXRoIGZpbGw9IiMxMDJkNWUiIGQ9Ik01IDRoMTF2MTNIMVY4YTQgNCAwIDAgMSA0LTQiLz48cGF0aCBkPSJNMjcgNEg1YTQgNCAwIDAgMC00IDR2MTZhNCA0IDAgMCAwIDQgNGgyMmE0IDQgMCAwIDAgNC00VjhhNCA0IDAgMCAwLTQtNG0zIDIwYTMgMyAwIDAgMS0zIDNINWEzIDMgMCAwIDEtMy0zVjhhMyAzIDAgMCAxIDMtM2gyMmEzIDMgMCAwIDEgMyAzeiIgb3BhY2l0eT0iLjEiLz48cGF0aCBmaWxsPSIjZmZmIiBkPSJNMjcgNUg1YTMgMyAwIDAgMC0zIDN2MWEzIDMgMCAwIDEgMy0zaDIyYTMgMyAwIDAgMSAzIDNWOGEzIDMgMCAwIDAtMy0zIiBvcGFjaXR5PSIuMiIvPjxwYXRoIGZpbGw9IiNmZmYiIGQ9Im00LjYgNy41LjYtLjVoLS43bC0uMy0uN0w0IDdoLS43bC42LjUtLjMuNy42LS41LjYuNXptMyAwIC42LS41aC0uOGwtLjItLjdMNyA3aC0uN2wuNS41LS4yLjcuNi0uNS42LjV6bTMgMCAuNi0uNWgtLjhsLS4yLS43LS4yLjdoLS44bC42LjUtLjIuNy42LS41LjYuNXpNNiA5LjNsLjctLjRoLS44bC0uMi0uNy0uMi43aC0uOGwuNi40LS4yLjcuNi0uNS42LjV6bTMgMCAuNi0uNEg5bC0uMi0uNy0uMi43aC0uOGwuNi40LS4yLjcuNi0uNS42LjV6bTMgMCAuNi0uNEgxMmwtLjItLjctLjMuN2gtLjdsLjYuNC0uMi43LjYtLjUuNi41ek02IDEzbC43LS41aC0uOGwtLjItLjctLjIuN2gtLjhsLjYuNC0uMi43LjYtLjQuNi40em0zIDAgLjYtLjVIOWwtLjItLjctLjIuN2gtLjhsLjYuNC0uMi43LjYtLjQuNi40em0zIDAgLjYtLjVIMTJsLS4yLS43LS4zLjdoLS43bC42LjQtLjIuNy42LS40LjYuNHptMS41LTUuNS42LS41aC0uN2wtLjItLjctLjMuN2gtLjdsLjYuNS0uMi43LjYtLjUuNi41em0tOC45IDMuNi42LS40aC0uN2wtLjMtLjctLjIuN2gtLjdsLjYuNC0uMy43LjYtLjQuNi40em0zIDAgLjYtLjRoLS44bC0uMi0uNy0uMi43aC0uN2wuNS40LS4yLjcuNi0uNC42LjR6bTMgMCAuNi0uNGgtLjhsLS4yLS43LS4yLjdoLS44bC42LjQtLjIuNy42LS40LjYuNHptMi45IDAgLjYtLjRoLS43bC0uMi0uNy0uMy43aC0uN2wuNi40LS4yLjcuNi0uNC42LjR6bS04LjkgMy42LjYtLjRoLS43bC0uMy0uNy0uMi43aC0uN2wuNi40LS4zLjcuNi0uNC42LjR6bTMgMCAuNi0uNGgtLjhsLS4yLS43LS4yLjdoLS43bC41LjQtLjIuNy42LS40LjYuNHptMyAwIC42LS40aC0uOGwtLjItLjctLjIuN2gtLjhsLjYuNC0uMi43LjYtLjQuNi40em0yLjkgMCAuNi0uNGgtLjdsLS4yLS43LS4zLjdoLS43bC42LjQtLjIuNy42LS40LjYuNHoiLz48L3N2Zz4=)
 ![Korean](https://img.shields.io/badge/-Korean-000?&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgdmlld0JveD0iMCAwIDMyIDMyIj48cmVjdCB3aWR0aD0iMzAiIGhlaWdodD0iMjQiIHg9IjEiIHk9IjQiIGZpbGw9IiNmZmYiIHJ4PSI0IiByeT0iNCIvPjxwYXRoIGQ9Ik0yNyA0SDVhNCA0IDAgMCAwLTQgNHYxNmE0IDQgMCAwIDAgNCA0aDIyYTQgNCAwIDAgMCA0LTRWOGE0IDQgMCAwIDAtNC00bTMgMjBhMyAzIDAgMCAxLTMgM0g1YTMgMyAwIDAgMS0zLTNWOGEzIDMgMCAwIDEgMy0zaDIyYTMgMyAwIDAgMSAzIDN6IiBvcGFjaXR5PSIuMSIvPjxwYXRoIGQ9Ik02LjYgMTIuNCA5IDguN2wuNi40LTIuNSAzLjh6bS45LjZMMTAgOS40bC43LjRMOCAxMy41em0xIC43TDExIDkuOWwuNi40LTIuNSAzLjh6bTE1LjEgNy4yIDEuMi0xLjguNi41LTEuMSAxLjd6TTIyLjMgMjNsMS4xLTEuOC43LjQtMS4yIDEuN3ptLjQtMi44IDEuMi0xLjcuNi40LTEuMiAxLjh6bS0xLjQgMi4xIDEuMi0xLjcuNi40LTEuMSAxLjd6bS41LTIuNyAxLjEtMS43LjYuNC0xLjEgMS43em0tMS40IDIuMSAxLjItMS44LjYuNC0xLjIgMS44eiIvPjxwYXRoIGZpbGw9IiNiZTNiM2UiIGQ9Ik0xMi4yIDEzLjVhNC41IDQuNSAwIDEgMSA3LjYgNXoiLz48cGF0aCBmaWxsPSIjMWM0NDljIiBkPSJNMTIuMiAxMy41YTQuNSA0LjUgMCAxIDAgNy42IDVBMi4zIDIuMyAwIDEgMCAxNiAxNnoiLz48Y2lyY2xlIGN4PSIxNC4xIiBjeT0iMTQuNyIgcj0iMi4zIiBmaWxsPSIjYmUzYjNlIi8+PHBhdGggZD0ibTYuNiAxOS42LjYtLjVMOS43IDIzbC0uNi40em0xLjktMS4zTDkgMThsMi41IDMuOC0uNi40em0xMi44LTguNi43LS40IDIuNSAzLjgtLjYuNHpNNy41IDE5bC42LS41IDEuMiAxLjctLjYuNXptMS40IDIgLjYtLjQgMS4yIDEuNy0uNy40em0xMS41LTEwLjcuNi0uNCAxLjIgMS44LS42LjR6bTEuNCAyLjEuNi0uNCAxLjEgMS43LS42LjR6bS41LTMuNC42LS4zIDEuMiAxLjctLjcuNHptMS4zIDIuMS43LS40IDEuMSAxLjctLjYuNXoiLz48cGF0aCBmaWxsPSIjZmZmIiBkPSJNMjcgNUg1YTMgMyAwIDAgMC0zIDN2MWEzIDMgMCAwIDEgMy0zaDIyYTMgMyAwIDAgMSAzIDNWOGEzIDMgMCAwIDAtMy0zIiBvcGFjaXR5PSIuMiIvPjwvc3ZnPg==)
 
-![Technologies](https://img.shields.io/badge/Technologies-000?style=for-the-badge)<br>
+![Technologies](https://img.shields.io/badge/Technologies-F7F0F0?style=for-the-badge)<br>
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Three.js](https://img.shields.io/badge/-Three.js-000?&logo=threedotjs)
 ![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=nextdotjs)
@@ -27,7 +27,7 @@
 
 <br>
 
-![Fullstack_Projects](https://img.shields.io/badge/Fullstack_Projects-000?style=for-the-badge)<br>
+![Fullstack_Projects](https://img.shields.io/badge/Fullstack_Projects-F7F0F0?style=for-the-badge)<br>
 
 [![](https://img.shields.io/badge/🏫_XiLearn-1D24CA?style=for-the-badge) ![](https://img.shields.io/badge/Complete_Teaching_and_Learning_platform_for_a_Digital_School_based_in_Laos.-000)<br>![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=nextdotjs) ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript) ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000?&logo=tailwindcss) ![Moodle](https://img.shields.io/badge/-Moodle-000?&logo=moodle) ![Stripe](https://img.shields.io/badge/-Stripe-000?&logo=stripe)](https://xilearn.com/en)
 
@@ -38,7 +38,7 @@
 
 <br>
 
-![Reverse_Engineering_Project](https://img.shields.io/badge/Reverse_Engineering_Project-000?style=for-the-badge)<br>
+![Reverse_Engineering_Project](https://img.shields.io/badge/Reverse_Engineering_Project-F7F0F0?style=for-the-badge)<br>
 
 [![](https://img.shields.io/badge/🤖_Vinted_Discord_Bot-005461?style=for-the-badge) ![](https://img.shields.io/badge/Reverse--engineered_Vinted_API_for_a_real--time_Discord_deal--notifier_and_auto--buy_bot.-000)<br>![Python](https://img.shields.io/badge/-Python-000?&logo=Python) ![Flask](https://img.shields.io/badge/-Flask-000?&logo=Flask) ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)](https://www.linkedin.com/posts/antonylanglois_reverseengineering-python-flask-activity-7170815952886943745-9v6h?utm_source=share&utm_medium=member_desktop&rcm=ACoAADl92bQBqG1ZYafu9a4tI2XXjOiSb_k8gN0)
 
