@@ -26,16 +26,13 @@
 ![Stripe](https://img.shields.io/badge/-Stripe-000?&logo=stripe)
 ![Notion](https://img.shields.io/badge/-Notion-000?&logo=notion)
     
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=30&duration=1&pause=1000&color=909692&background=FFFFFF00&vCenter=true&repeat=false&width=435&height=40&lines=featured_projects/)
-
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=30&duration=1&pause=1000&color=909692&background=FFFFFF00&vCenter=true&repeat=false&width=435&height=40&lines=featured_projects/)<br>
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&duration=5000&pause=1000&color=5FED83&background=FFFFFF00&vCenter=true&repeat=falsewidth=435&height=30&lines=chrome_extensions/)
 
 [![](https://img.shields.io/badge/🪙_Twitch_Extension-512B81?style=for-the-badge) ![](https://img.shields.io/badge/Twitch_Google_Chrome_extension.-000)<br>![Users](https://img.shields.io/badge/users-2400+-08872B
 ) ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)](https://chromewebstore.google.com/detail/twitch-bonus-chest-auto-c/pdjfehhlnpmhgdkoplaoiigclmkoifgb)
 
 [![](https://img.shields.io/badge/🧐_Instagram_Extension-74512D?style=for-the-badge) ![](https://img.shields.io/badge/Instagram_Unfollower_Scanner.-000)<br>![Users](https://img.shields.io/badge/users-110+-08872B) ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)](https://chromewebstore.google.com/detail/instagram-unfollower-scan/adnjkmippimphiiklnaicbebfmhbjlgc)
-
-<br>
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&duration=10000&pause=1000&color=5FED83&background=FFFFFF00&vCenter=true&repeat=false&width=435&height=30&lines=fullstack/)
 
@@ -48,8 +45,6 @@
 [![](https://img.shields.io/badge/⚡️_UpSlide-fa474a?style=for-the-badge) ![](https://img.shields.io/badge/Benchmarked_and_worked_on_the_full_refont_and_optimization_of_UpSlide_landing_website.-000)<br>![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript) ![PHP](https://img.shields.io/badge/-PHP-000?&logo=php) ![CSS](https://img.shields.io/badge/-CSS-000?&logo=css) ![WordPress](https://img.shields.io/badge/-WordPress-000?&logo=wordpress) ![Elementor](https://img.shields.io/badge/-Elementor-000?&logo=elementor)](https://upslide.com/)
 
 [![](https://img.shields.io/badge/🔧_UpSlide_Portal-512B81?style=for-the-badge) ![](https://img.shields.io/badge/Worked_on_the_admin_and_internal_portal_tool_for_UpSlide_solution.-000)<br>![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript) ![C#.NET](https://img.shields.io/badge/-.NET-000?&logo=dotnet) ![React](https://img.shields.io/badge/-React-000?&logo=React) ![Sentry](https://img.shields.io/badge/-Sentry-000?&logo=sentry) ![CSS](https://img.shields.io/badge/-CSS-000?&logo=css)](https://portal.upslide.net/)
-
-<br>
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&duration=15000&pause=1000&color=5FED83&background=FFFFFF00&vCenter=true&repeat=false&width=435&height=30&lines=reverse_engineering/)
 
