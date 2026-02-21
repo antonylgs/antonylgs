@@ -25,8 +25,6 @@
 ![Elementor](https://img.shields.io/badge/-Elementor-000?&logo=elementor)
 ![Stripe](https://img.shields.io/badge/-Stripe-000?&logo=stripe)
 ![Notion](https://img.shields.io/badge/-Notion-000?&logo=notion)
-
-<br>
     
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=30&duration=1&pause=1000&color=909692&background=FFFFFF00&vCenter=true&repeat=false&width=435&height=40&lines=featured_projects/)
 
